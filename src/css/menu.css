@@ -1,0 +1,48 @@
+.menuList {
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: rgba(255, 255, 255, 0.95);
+  height: 100%;
+  padding-top: 40px;
+  width: 80%;
+  position: fixed;
+  right: 0px;
+  top: 0px;
+  z-index: 1;
+}
+
+.menuNameHeader {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 37px;
+  width: 300px;
+  top: 0px;
+
+}
+
+.menuIcon {
+  position: fixed;
+  right: 0px;
+  top: 0px;
+  padding: 20px;
+
+}
+
+.labelText {
+  margin-top: 7px;
+  margin-bottom: 7px;
+  margin-right: 15px;
+  font-size: 25px;
+}
+
+.link {
+  width: 100%;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.x {
+  position: fixed;
+  top: -40px;
+  right: 0px;
+  padding: 20px;
+  font-size: 35px;
+}

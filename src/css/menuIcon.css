@@ -1,0 +1,5 @@
+.menuLine {
+  width: 30px;
+  height: 6px;
+  border-bottom: 3px solid black;
+}

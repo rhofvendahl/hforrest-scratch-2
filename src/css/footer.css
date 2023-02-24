@@ -1,0 +1,14 @@
+.footer {
+    /* min-height: calc(100vh - 4rem); */
+    /* margin-top: 90vh; */
+    text-align: center;
+    width: 100%;
+    background-image: url(../img/paperbackground.jpeg);
+    position: fixed;
+    vertical-align: bottom;
+    bottom: 0px;
+    /* margin-top: 20px; */
+    /* height: 40px; */    /* height: 40px; */
+
+
+}

@@ -9,7 +9,7 @@ import Video from './components/video';
 import Contact from './components/contact';
 import ViewImage from './components/viewImage';
 import Error404 from './components/Error404';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import {Routes, Route } from 'react-router-dom';
 
 class App extends React.Component {
 

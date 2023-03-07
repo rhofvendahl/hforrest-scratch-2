@@ -1,7 +1,7 @@
 .footer {
     text-align: center;
     width: 100%;
-    background-image: url(../img/paperbackground.jpeg);
+    /* background-image: url(../img/paperbackground.jpeg); */
     position: fixed;
     vertical-align: bottom;
     bottom: 0px;

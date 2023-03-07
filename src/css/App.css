@@ -6,7 +6,7 @@ a {
 }
 
 body {
-  background-image: url(../img/paperbackground.jpeg);
+  /* background-image: url(../img/paperbackground.jpeg); */
   background-attachment: fixed;
   margin: 0;
   height: calc(100vh - 136px);

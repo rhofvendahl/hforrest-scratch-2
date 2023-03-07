@@ -41,7 +41,7 @@ class App extends React.Component {
       <div className="background">
         {this.state.useMenu ? <Menu /> : <Header />}
           <Routes>
-            <Route exact path='/' element={<Sculpture/>} />
+            {/* <Route exact path='/' element={<Sculpture/>} /> */}
             <Route path='/about' element={<About/>} />
             <Route path='/video' element={<Video/>} />
             <Route path='/contact' element={<Contact/>} />
